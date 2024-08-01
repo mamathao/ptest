@@ -1,2 +1,2 @@
-hi hello 
+hi 
 welcome to cs lab
